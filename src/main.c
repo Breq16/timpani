@@ -67,9 +67,16 @@ void registers_to_report(uint8_t *report) {
 int main(void) {
     os_ClrHome();
 
-    printf("Welcome to TIMPANI\n");
+    printf("\n");
+    printf("\n");
 
-    printf("Press MODE to exit\n");
+    printf("  made with <3 by breq :)\n");
+    printf("     https://breq.dev/   \n");
+
+    printf("\n");
+    printf("\n");
+
+    printf("  brooke chalmers, 2021  \n");
 
     usb_Init(usb_event, NULL, &descriptors, USB_DEFAULT_INIT_FLAGS);
 

@@ -1,5 +1,11 @@
 # timpani
-the Texas Instruments Machine for Percussion And Novel Instruments
+the Texas Instruments Machine for Percussion And Noisy Instruments.
+
+...or, alternatively, the Totally Improvised Macro Pad And Novel Interface
+
+## What is it?
+
+Timpani allows a TI-84 Plus CE calculator to become a USB keyboard.
 
 
 ## Setup Guide
